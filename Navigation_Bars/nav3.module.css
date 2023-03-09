@@ -1,0 +1,35 @@
+.nav3{
+    display: flex;
+    border: 2px solid red;
+    background-color: #EDE9D5;
+    justify-content: space-between;
+    
+}
+
+.menu ul{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
+
+.menu ul li{
+    list-style: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: inherit;
+}
+.btn{
+    width: 200px;
+}
+.btn button{
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    padding-right: 20px;
+    margin-top: 15px;
+    cursor: pointer;
+    background: none;
+}
+

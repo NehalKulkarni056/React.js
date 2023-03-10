@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+.students,.grp2,.grp3,.grp4,.grp5,.grp6{
+    display: flex;
+}
+
+.grp7{
+    display: flex;
+    width: 830px;
+}
+
+.std{
+display: flex;
+flex-direction: column;
+border: 1px solid red;
+padding: 10px;
+margin: 5px;
+width: 400px;
+}
+
+.details{
+    line-height: 25px;
+}

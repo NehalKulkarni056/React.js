@@ -1,19 +1,25 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-export default class App extends Component {
+class App extends Component {
   constructor(){
     super()
     this.state={
-                  firstName : "Nehal",
-                  lastName : "Coolkarni"
-               }
+                  course : "React.js",
+                  skills : ["HTML","CSS","JS"]
+              }
   }
   render() {
     return (
       <>
-      <h1>You Know Who....!?</h1>
-      <h2>{this.state.firstName} {this.state.lastName}</h2>
+        <h1>Course : {this.state.course}</h1>
+        <h2>Pre required skills : <br /> {this.state.skills.map((x)=>{
+                                                                return <li>{x}</li>
+                                                              } )
+                                   }
+        </h2>
       </>
-    )
+    );
   }
 }
+
+export default App;

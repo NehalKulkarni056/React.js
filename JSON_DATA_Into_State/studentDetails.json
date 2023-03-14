@@ -1,0 +1,161 @@
+[
+    {
+        "studentName" : "Nehal Coolkarni",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Unique", "Poet", "Talented"]
+    },
+
+    {
+        "studentName" : "Boonesh",
+        "branch" : "Electrical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Babel", "Good at counting stars", "Talented"]
+    },
+
+    {
+        "studentName" : "Shobitha",
+        "branch" : "Electronics & Communication Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Communication skill...!", "Humanity", "Talented"]
+    },
+
+    {
+        "studentName" : "Nasir",
+        "branch" : "Electrical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Bhaskar award winning Actor", "Developing Tester", "Talented"]
+    },
+
+    {
+        "studentName" : "Rakshit",
+        "branch" : "Information Science Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Dr.Shetty", "Silent killer", "Talented"]
+    },
+
+    {
+        "studentName" : "Matte Rakshit",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Vice City", "Doremon", "Talented"]
+    },
+
+    {
+        "studentName" : "Suraj",
+        "branch" : "Computer Science Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["The best worst Singer", "Daily Cardio", "Talented"]
+    },
+
+    {
+        "studentName" : "Bache Gowda",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Manigondu Daara", "J spider's Eminem", "Talented"]
+    },
+
+    {
+        "studentName" : "Jeetendra",
+        "branch" : "Yavdo Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Regularly Irregular", "Football fan", "Talented"]
+    },
+
+    {
+        "studentName" : "Shivakumar",
+        "branch" : "Computer Science Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Skip", "Hi prends bye prends", "Talented"]
+    },
+
+    {
+        "studentName" : "Aditya",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Einstein", "Pure heart", "Talented"]
+    },
+
+    {
+        "studentName" : "Arun",
+        "branch" : "Civil Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["UK Huli", "Arun anna", "Talented"]
+    },
+
+    {
+        "studentName" : "Vinay",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Biriyani", "Cast Typing'u....!", "Talented"]
+    },
+
+    {
+        "studentName" : "Poornima",
+        "branch" : "Electrical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Taciturn", "Innocent", "Talented"]
+    },
+
+    {
+        "studentName" : "Shruti",
+        "branch" : "Computer Science Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Short tempered", "Strict presentation mate", "Talented"]
+    },
+
+    {
+        "studentName" : "Akash",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["KD", "khiladi", "Talented"]
+    },
+
+    {
+        "studentName" : "Swapna",
+        "branch" : "Yavdo Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Babel's Babel","Swap", "Talented"]
+    },
+
+    {
+        "studentName" : "Mala",
+        "branch" : "Yavdo Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["JAVA lover", "SP Maangliyana", "Talented"]
+    },
+
+    {
+        "studentName" : "Abhijit",
+        "branch" : "Mechanical Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Jai Maharashtra", "Shantabai Borthers...!", "Talented"]
+    },
+
+    {
+        "studentName" : "Ulidavaru",
+        "branch" : "Yavdo Engineering",
+        "course" : "MERN Full Stack",
+        "duration" : "Jspider avaru yavag mugastare avaga...!",
+        "details" : ["Ulidavaru kandente", "ashte matten illa", "Talented irbodu"]
+    }
+]

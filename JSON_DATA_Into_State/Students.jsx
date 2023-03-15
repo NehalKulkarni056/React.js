@@ -1,9 +1,12 @@
 import React from 'react'
 
 const Students = (props) => {
+  console.log(Array.isArray(props.data));
+  console.log(props.data);
   return (
     <>
-    <table>
+    <center>
+    <table border="2px" style={{textAlign:"center"}}>
 
         <tr>
             <th>Student Name</th>
@@ -13,15 +16,16 @@ const Students = (props) => {
             <th>Details</th>
         </tr>
 
-        <tr>
+        
             {props.data.map((x)=>{
                             return (
+                                <tr>
                                 <>
                                 <td>{x.studentName}</td>
                                 <td>{x.branch}</td>
                                 <td>{x.course}</td>
                                 <td>{x.duration}</td>
-                                <td> <ol>
+                                <td style={{textAlign:"left"}}> <ol>
                                     {x.details.map((x)=>{
                                                             return <li>{x}</li>
                                                         }
@@ -29,11 +33,13 @@ const Students = (props) => {
                                         }
                                     </ol> </td>
                                 </>
+                                </tr>
                             )
                         })}
-        </tr>
+        
 
     </table>
+    </center>
     </>
   )
 }

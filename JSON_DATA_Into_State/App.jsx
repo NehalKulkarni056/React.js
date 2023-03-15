@@ -7,7 +7,7 @@ class App extends Component {
   constructor(){
     super()
     this.state={
-                  json : {JSON}
+                  json : JSON
               }
   }
   render() {

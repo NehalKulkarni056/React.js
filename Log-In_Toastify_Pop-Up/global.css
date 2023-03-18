@@ -1,0 +1,34 @@
+.mainBlock{
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+.inp{
+    border: 2px solid black;
+    text-align: center;
+    margin: 15px;
+    width: 300px;
+}
+
+label{
+    margin: 5px;
+}
+
+.btngrp{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.btn{
+    width: 60px;
+    border-radius: 20px;
+}
+
+.btn:hover{
+        background: black;
+        color: white;
+        transition: 0.5s ease-in;
+}

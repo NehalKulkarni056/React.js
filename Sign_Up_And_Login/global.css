@@ -1,0 +1,77 @@
+.mainBlock{
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+}
+
+.mainBlock input{
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.mainBlock  label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  
+.inBtn{
+    width: 100px;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin: 10px;
+}
+
+.inBtn:hover{
+    color: white;
+    background-color: green;
+    transition: 1s;
+}
+
+.up{
+    width: 250px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.up button{
+    background: none;
+    border: none;
+    color: red;
+    font-size: large;
+    cursor: pointer;
+}
+
+.signUp  label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  
+.signUp  input {
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+.signUp button {
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+.signUp button:hover {
+    background-color: black;
+    color: white;
+  }
